@@ -44,7 +44,7 @@ The API supports the following operations.
 
 ## Part 2: Testing
 
-Tested with pytest endpoints that create, update and return a quote. 
+Tested with <b>pytest</b> endpoints that create, update and return a quote. 
 
 ## Part 3: Containerization
 
